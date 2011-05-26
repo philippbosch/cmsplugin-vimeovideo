@@ -20,11 +20,11 @@ msgstr ""
 
 #: cms_plugins.py:10 models.py:35
 msgid "vimeo video"
-msgstr ""
+msgstr "vimeo-Video"
 
 #: models.py:9
 msgid "vimeo URL"
-msgstr ""
+msgstr "vimeo-URL"
 
 #: models.py:10
 msgid "alternate text"
@@ -36,53 +36,8 @@ msgstr "Textbeschreibung des Bildes"
 
 #: models.py:11
 msgid "thumbnail option"
-msgstr ""
+msgstr "Anzeigeformat"
 
 #: models.py:36
 msgid "vimeo videos"
-msgstr ""
-
-#~ msgid "Image"
-#~ msgstr "Bild"
-
-#~ msgid "left"
-#~ msgstr "links"
-
-#~ msgid "right"
-#~ msgstr "rechts"
-
-#~ msgid "center"
-#~ msgstr "zentriert"
-
-#~ msgid "image"
-#~ msgstr "Bild"
-
-#~ msgid "side"
-#~ msgstr "Ausrichtung"
-
-#~ msgid "size"
-#~ msgstr "Größe"
-
-#~ msgid "link"
-#~ msgstr "Link"
-
-#~ msgid "if present image will be clickable"
-#~ msgstr "Füllen Sie dieses Feld aus, um das Bild zu verlinken."
-
-#~ msgid "page"
-#~ msgstr "Seite"
-
-#~ msgid "images"
-#~ msgstr "Bilder"
-
-#~ msgid "full width"
-#~ msgstr "volle Breite"
-
-#~ msgid "half width"
-#~ msgstr "halbe Breite"
-
-#~ msgid "third width"
-#~ msgstr "ein Drittel Breite"
-
-#~ msgid "original image (unscaled)"
-#~ msgstr "Originalbild (unskaliert)"
+msgstr "vimeo-Videos"
