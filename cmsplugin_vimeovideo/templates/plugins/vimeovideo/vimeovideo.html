@@ -1,0 +1,5 @@
+{% load thumbnail i18n %}
+
+<span class="video vimeo{% if vimeovideo.float %} {{ vimeovideo.float }}{% endif %}">
+    <iframe src="http://player.vimeo.com/video/{{ vimeovideo.vimeo_id }}?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=0&amp;loop=0" width="{{ vimeovideo.width }}" height="{{ vimeovideo.height }}" frameborder="0"></iframe>
+</span>

@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-26 13:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: cms_plugins.py:10 models.py:35
+msgid "vimeo video"
+msgstr ""
+
+#: models.py:9
+msgid "vimeo URL"
+msgstr ""
+
+#: models.py:10
+msgid "alternate text"
+msgstr "Alternativtext"
+
+#: models.py:10
+msgid "textual description of the image"
+msgstr "Textbeschreibung des Bildes"
+
+#: models.py:11
+msgid "thumbnail option"
+msgstr ""
+
+#: models.py:36
+msgid "vimeo videos"
+msgstr ""
+
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "left"
+#~ msgstr "links"
+
+#~ msgid "right"
+#~ msgstr "rechts"
+
+#~ msgid "center"
+#~ msgstr "zentriert"
+
+#~ msgid "image"
+#~ msgstr "Bild"
+
+#~ msgid "side"
+#~ msgstr "Ausrichtung"
+
+#~ msgid "size"
+#~ msgstr "Größe"
+
+#~ msgid "link"
+#~ msgstr "Link"
+
+#~ msgid "if present image will be clickable"
+#~ msgstr "Füllen Sie dieses Feld aus, um das Bild zu verlinken."
+
+#~ msgid "page"
+#~ msgstr "Seite"
+
+#~ msgid "images"
+#~ msgstr "Bilder"
+
+#~ msgid "full width"
+#~ msgstr "volle Breite"
+
+#~ msgid "half width"
+#~ msgstr "halbe Breite"
+
+#~ msgid "third width"
+#~ msgstr "ein Drittel Breite"
+
+#~ msgid "original image (unscaled)"
+#~ msgstr "Originalbild (unskaliert)"

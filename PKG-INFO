@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: cmsplugin-vimeovideo
+Version: 0.0.1a5
+Summary: Vimeo video plugin for django-cms
+Home-page: http://github.com/philippbosch/cmsplugin-vimeovideo
+Author: Philipp Bosch
+Author-email: hello@pb.io
+License: BSD
+Description: Vimeo video plugin for django-cms
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Framework :: Django
